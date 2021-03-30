@@ -1,0 +1,39 @@
+body{
+  margin:0;
+}
+.top-banner{
+  background-color:#3085c7;
+  display:grid;
+  grid-template-columns:1fr 1fr;
+  padding:12px;
+}
+.logo-banner{
+  margin-left:10px;
+  padding-top:8px;
+}
+.logopng{
+  width:150px;
+}
+.logo-banner1{
+  text-align:right;
+  margin-right:10px;
+  padding-top:5px;
+}
+.bottom-button{
+  display:grid;
+  grid-template-columns:1fr 1fr 1fr 1fr 1fr;
+  border-top : 2px solid #3e3a39;
+  padding-top:15px;
+  text-align:center;
+  font-weight:bold;
+  margin-top:10px;
+  margin-bottom:10px;
+  }
+.bottom-button-element{
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align:center;
+  width:30px;
+  margin-bottom:5px;
+}
